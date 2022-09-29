@@ -1,4 +1,4 @@
-#Script pour afficher les nombres de 1 Ã  100 000
+#Script pour afficher les nombres premiers de 1 à 1 000 000
 min = 1
 max = 1000000
 for n in range(min,max + 1):
