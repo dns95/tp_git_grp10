@@ -1,8 +1,6 @@
-#Script pour afficher les nombres de 1 à 100 000
-#Lire la saisie de l'utilisateur
-min = int(input("Entrez le min : "))
-max = int(input("Entrez le max : "))
-
+#Script pour afficher les nombres de 1 Ã  100 000
+min = 1
+max = 1000000
 for n in range(min,max + 1):
    if n > 1:
        for i in range(2,n):
